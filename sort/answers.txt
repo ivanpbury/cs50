@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Sort1 is quick for sorted lists but slow for unsorted lists. This fits bubble sort which has a lower bound of n but an upper bound of n^2
+
+sort2 uses: Merge sort
+
+How do you know?: Sort2 is the quickest algorithm and has similar run times for sorted and unsorted lists. This fits merge sort, which has an upper and lower efficiency of nlogn
+
+sort3 uses: Selection sortcheck50 cs50/labs/2022/x/sort
+
+How do you know?: Sort3 takes longer compared to the other algorithms and has similar run times for sorted and unsorted list. This fits selection sort, which has an upper and lower efficiency of n^2
